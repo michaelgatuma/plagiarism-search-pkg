@@ -1,0 +1,25 @@
+{
+  "name": "plagiarism-search",
+  "version": "1.0.0",
+  "description": "This is a plagiarism search tool that uses a search engine to find similar documents.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgatuma/plagiarism-search-pkg.git"
+  },
+  "keywords": [
+    "Plagiarism"
+  ],
+  "author": "Michael Gatuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelgatuma/plagiarism-search-pkg/issues"
+  },
+  "homepage": "https://github.com/michaelgatuma/plagiarism-search-pkg#readme"
+}
